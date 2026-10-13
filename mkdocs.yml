@@ -1,0 +1,83 @@
+site_name: snAIl — Robotique éducative
+site_description: >-
+  snAIl, le robot escargot qui apprend aux 8–17 ans la robotique, l'IA,
+  la vision par ordinateur et la planification.
+# Avec un nom de domaine personnalisé, remplacer par celui-ci.
+site_url: https://nizaro.github.io/snail-site/
+
+theme:
+  name: material
+  language: fr
+  icon:
+    logo: material/robot-happy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Passer en mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Passer en mode clair
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: fr
+          name: Français
+          build: true
+          default: true
+        - locale: en
+          name: English
+          build: true
+          site_name: "snAIl — Educational Robotics"
+          nav_translations:
+            Accueil: Home
+            Le robot: The robot
+            Leçons: Lessons
+            Toutes les leçons: All lessons
+            "Blocs (8–12 ans)": "Blocks (ages 8–12)"
+            "Python (13–17 ans)": "Python (ages 13–17)"
+            Modèle de leçon: Lesson template
+            Association: The association
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Accueil: index.md
+  - Le robot: robot.md
+  - Leçons:
+      - Toutes les leçons: lecons/index.md
+      - "Blocs (8–12 ans)":
+          - lecons/blocs-01-decouverte.md
+      - "Python (13–17 ans)":
+          - lecons/python-01-premiers-pas.md
+      - Modèle de leçon: lecons/modele.md
+  - Association: association.md
+
+copyright: "snAIl — projet associatif de robotique éducative"
