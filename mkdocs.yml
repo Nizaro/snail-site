@@ -2,8 +2,7 @@ site_name: snAIl — Robotique éducative
 site_description: >-
   snAIl, le robot escargot qui apprend aux 8–17 ans la robotique, l'IA,
   la vision par ordinateur et la planification.
-# Avec un nom de domaine personnalisé, remplacer par celui-ci.
-site_url: https://nizaro.github.io/snail-site/
+site_url: https://snail-robotics.com/
 
 theme:
   name: material
