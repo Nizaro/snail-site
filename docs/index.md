@@ -24,6 +24,8 @@ Les compétences s'empilent étape par étape : **piloter → capter → voir �
 
 Nous développons des **[leçons clés en main](lecons/index.md)**, publiées sur ce site : objectifs, matériel et déroulé pas à pas, pour préparer chaque séance à l'avance et la mener en classe avec le robot.
 
+Découvrez le **[catalogue des ateliers](ateliers/index.md)** : recherche de chemin, apprentissage par renforcement, algorithmes génétiques, localisation, reconnaissance de chiffres — et bientôt LiDAR, vision 3D et IA vocale sur le robot.
+
 ## Contact
 
 Nizar Ouarti · porteur du projet

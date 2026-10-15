@@ -24,6 +24,8 @@ Skills stack up step by step: **drive → sense → see → plan → decide**. T
 
 We develop **[ready-to-teach lessons](lecons/index.md)**, published on this site: objectives, materials and a step-by-step plan, so you can prepare each session in advance and run it in class with the robot.
 
+Browse the **[workshop catalogue](ateliers/index.md)**: path finding, reinforcement learning, genetic algorithms, localization, digit recognition — and soon LiDAR, 3D vision and voice AI on the robot.
+
 ## Contact
 
 Nizar Ouarti · project lead

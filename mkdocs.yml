@@ -51,6 +51,7 @@ plugins:
           nav_translations:
             Accueil: Home
             Le robot: The robot
+            Ateliers: Workshops
             Leçons: Lessons
             Toutes les leçons: All lessons
             "Blocs (8–12 ans)": "Blocks (ages 8–12)"
@@ -70,6 +71,7 @@ markdown_extensions:
 nav:
   - Accueil: index.md
   - Le robot: robot.md
+  - Ateliers: ateliers/index.md
   - Leçons:
       - Toutes les leçons: lecons/index.md
       - "Blocs (8–12 ans)":
