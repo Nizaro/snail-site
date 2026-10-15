@@ -20,6 +20,8 @@ Nous construisons le projet avec :
 
 ![Logo de Sorbonne Université](assets/images/logos/sorbonne-universite.svg){ width="280" style="background:#ffffff;padding:16px 24px;border-radius:12px;margin-top:8px" }
 
+*Projet soutenu par Sorbonne Université dans le cadre du dispositif « Initiatives jeune public ».*
+
 ## Contact
 
 Nizar Ouarti · porteur du projet

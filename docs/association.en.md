@@ -20,6 +20,8 @@ We are building the project with:
 
 ![Sorbonne Université logo](assets/images/logos/sorbonne-universite.svg){ width="280" style="background:#ffffff;padding:16px 24px;border-radius:12px;margin-top:8px" }
 
+*Project supported by a Sorbonne Université grant, « Initiatives jeune public » (young audiences initiative).*
+
 ## Contact
 
 Nizar Ouarti · project lead
