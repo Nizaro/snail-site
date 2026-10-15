@@ -46,7 +46,7 @@ Each workshop explores **a real robotics or AI algorithm**, through dedicated so
 
 <div class="grid cards" markdown>
 
--   ![Localization simulator: the ghost robot on an autumn map, surrounded by the particle cloud](../assets/images/ateliers/atelier-localisation.png)
+-   ![Localization simulator: the ghost robot on an autumn map, with the search circle, particle weights and estimated position](../assets/images/ateliers/atelier-localisation.png)
 
     **The ghost robot** · Ages 16–17
 
@@ -63,6 +63,10 @@ Each workshop explores **a real robotics or AI algorithm**, through dedicated so
 </div>
 
 ## In preparation — on the snAIl robot
+
+![Students watch snAIl navigate between GO, STOP and LEFT cards laid on the floor, reading them with its camera](../assets/images/ateliers/snail-navigation.jpg)
+
+The next workshops leave the simulator for the robot itself: above, snAIl navigates the classroom by reading cards on the floor with its camera.
 
 <div class="grid cards" markdown>
 

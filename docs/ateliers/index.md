@@ -46,7 +46,7 @@ Chaque atelier explore **un algorithme réel de la robotique et de l'IA**, à tr
 
 <div class="grid cards" markdown>
 
--   ![Simulateur de localisation : le robot fantôme sur une carte d'automne, entouré du nuage de particules](../assets/images/ateliers/atelier-localisation.png)
+-   ![Simulateur de localisation : le robot fantôme sur une carte d'automne, avec le cercle de recherche, les poids des particules et la position estimée](../assets/images/ateliers/atelier-localisation.png)
 
     **Le robot fantôme** · 16–17 ans
 
@@ -63,6 +63,10 @@ Chaque atelier explore **un algorithme réel de la robotique et de l'IA**, à tr
 </div>
 
 ## En préparation — sur le robot snAIl
+
+![Des élèves observent snAIl naviguer entre des cartes GO, STOP et LEFT posées au sol, qu'il lit avec sa caméra](../assets/images/ateliers/snail-navigation.jpg)
+
+Les prochains ateliers quittent le simulateur pour le robot lui-même : ci-dessus, snAIl navigue en classe en lisant des cartes posées au sol avec sa caméra.
 
 <div class="grid cards" markdown>
 
