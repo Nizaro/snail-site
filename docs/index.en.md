@@ -1,6 +1,6 @@
 # snAIl — the robot that teaches young people robotics and AI
 
-![The snAIl robot prototype](assets/images/snail.jpg){ width="480" align=right }
+![The finished snAIl robot next to a laptop showing the block-programming interface](assets/images/snail-scratch.jpg){ width="560" align=right }
 
 **snAIl** is a snail-shaped educational robot built to teach young people aged **8 to 17** four skills that shape the future:
 

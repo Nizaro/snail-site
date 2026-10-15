@@ -1,6 +1,6 @@
 # snAIl — le robot qui apprend aux jeunes la robotique et l'IA
 
-![Le prototype du robot snAIl](assets/images/snail.jpg){ width="480" align=right }
+![Le robot snAIl terminé, à côté d'un ordinateur portable affichant l'interface de programmation par blocs](assets/images/snail-scratch.jpg){ width="560" align=right }
 
 **snAIl** est un robot éducatif en forme d'escargot, conçu pour apprendre aux jeunes de **8 à 17 ans** quatre compétences d'avenir :
 
