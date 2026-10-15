@@ -20,6 +20,12 @@ The project is carried by a **non-profit association** (being created), so that 
 
 Skills stack up step by step: **drive → sense → see → plan → decide**. The destination of every track is **autonomy**: a robot that perceives, decides and acts on its own, powered by the students' code.
 
+## The robot in action
+
+<video controls preload="metadata" style="width:100%;max-width:960px;border-radius:12px" src="assets/video/robot-en-action.mp4">
+Your browser cannot play this video.
+</video>
+
 ## For teachers
 
 We develop **[ready-to-teach lessons](lecons/index.md)**, published on this site: objectives, materials and a step-by-step plan, so you can prepare each session in advance and run it in class with the robot.

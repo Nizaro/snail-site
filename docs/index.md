@@ -20,6 +20,12 @@ Le projet est porté par une **association à but non lucratif** (en cours de cr
 
 Les compétences s'empilent étape par étape : **piloter → capter → voir → planifier → décider**. La destination de chaque parcours est l'**autonomie** : un robot qui perçoit, décide et agit seul, grâce au code des élèves.
 
+## Le robot en action
+
+<video controls preload="metadata" style="width:100%;max-width:960px;border-radius:12px" src="assets/video/robot-en-action.mp4">
+Votre navigateur ne peut pas lire cette vidéo.
+</video>
+
 ## Pour les enseignants
 
 Nous développons des **[leçons clés en main](lecons/index.md)**, publiées sur ce site : objectifs, matériel et déroulé pas à pas, pour préparer chaque séance à l'avance et la mener en classe avec le robot.
