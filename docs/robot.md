@@ -1,8 +1,10 @@
 # Le robot
 
-![Le prototype snAIl sur l'établi](assets/images/snail.jpg){ width="520" align=right }
-
 snAIl est un prototype fonctionnel, construit dans notre atelier. Sa forme d'escargot cache des capteurs de niveau recherche et un calculateur embarqué.
+
+<video controls preload="metadata" style="width:100%;max-width:960px;border-radius:12px" src="assets/video/robot-en-action.mp4">
+Votre navigateur ne peut pas lire cette vidéo.
+</video>
 
 ## La technologie
 

@@ -1,8 +1,10 @@
 # The robot
 
-![The snAIl prototype on the workbench](assets/images/snail.jpg){ width="520" align=right }
-
 snAIl is a working prototype, built in our workshop. Its snail shape hides research-grade sensors and an onboard computer.
+
+<video controls preload="metadata" style="width:100%;max-width:960px;border-radius:12px" src="assets/video/robot-en-action.mp4">
+Your browser cannot play this video.
+</video>
 
 ## The technology
 
