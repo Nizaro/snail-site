@@ -18,6 +18,8 @@ Nous construisons le projet avec :
 - les **villes** — salles pour les clubs périscolaires, place dans les dispositifs jeunesse, soutien à l'équipement ;
 - les **écoles** — classes pilotes de la primaire au lycée, créneaux sur ou après le temps scolaire, retours des enseignants.
 
+![Logo de Sorbonne Université](assets/images/logos/sorbonne-universite.svg){ width="280" style="background:#ffffff;padding:16px 24px;border-radius:12px;margin-top:8px" }
+
 ## Contact
 
 Nizar Ouarti · porteur du projet
