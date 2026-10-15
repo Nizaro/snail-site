@@ -22,7 +22,7 @@ Les compétences s'empilent étape par étape : **piloter → capter → voir �
 
 ## Le robot en action
 
-<video controls preload="metadata" style="width:100%;max-width:960px;border-radius:12px" src="assets/video/robot-en-action.mp4">
+<video controls preload="metadata" style="width:100%;max-width:960px;border-radius:12px" src="/assets/video/robot-en-action.mp4">
 Votre navigateur ne peut pas lire cette vidéo.
 </video>
 

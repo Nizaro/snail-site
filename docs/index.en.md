@@ -22,7 +22,7 @@ Skills stack up step by step: **drive → sense → see → plan → decide**. T
 
 ## The robot in action
 
-<video controls preload="metadata" style="width:100%;max-width:960px;border-radius:12px" src="assets/video/robot-en-action.mp4">
+<video controls preload="metadata" style="width:100%;max-width:960px;border-radius:12px" src="/assets/video/robot-en-action.mp4">
 Your browser cannot play this video.
 </video>
 
